@@ -1,2 +1,3 @@
 # Portfolio
-A collection of programming projects.
+## Sam Masciave
+Portfolio is still underway. Sorry!
