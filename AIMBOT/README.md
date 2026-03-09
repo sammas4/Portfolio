@@ -2,7 +2,7 @@
 ## Built By: Sam Masciave, Jack Curtis, Zhi Hao Liao, Nick Wagner
 ------------------------
 
-Project repository link: https://github.com/ChaosWaffle1/AIMBOT.git <br>
+Project repository link: https://github.com/ChaosWaffle1/AIMBOT <br>
 
 <p>This game was built using the Windows version of Godot ver. 4.4.1. The full project is accessible through the game engine by opening the project.godot file in the linked repository, or play-only by opening the aimbot_v5 executable in this directory.</p>
 
